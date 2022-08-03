@@ -26,7 +26,6 @@ namespace math
             result = num1 / num2;
             Console.WriteLine("Division is {0}", result);
 
-
         }
     }
 }
