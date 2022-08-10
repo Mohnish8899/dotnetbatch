@@ -1,0 +1,11 @@
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\bin\Debug\First winform.exe.config
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\bin\Debug\First winform.exe
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\bin\Debug\First winform.pdb
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.csproj.AssemblyReference.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First_winform.Form1.resources
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First_winform.Properties.Resources.resources
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.csproj.GenerateResource.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.csproj.CoreCompileInputs.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.exe
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\First winform\First winform\obj\Debug\First winform.pdb
