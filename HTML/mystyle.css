@@ -1,0 +1,17 @@
+body{
+
+    background-image: url("img1.jpeg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+table, th, td {
+     border: 2px solid black;
+    border-collapse: collapse;}
+    
+  p {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 190%;
+    
+  }
