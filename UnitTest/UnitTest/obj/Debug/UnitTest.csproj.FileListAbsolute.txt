@@ -1,0 +1,6 @@
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\mohsin.baviskar\Documents\GitHub\dotnetbatch\Win Forms\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
